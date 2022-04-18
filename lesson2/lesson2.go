@@ -45,7 +45,7 @@ func CirclePerimetar(r float64) (float64, error) {
 }
 
 func hundredsTensUnits(num int64) (string, error) {
-	fmt.Printf("Your number is: %d \n", num)
+	fmt.Printf("Your number is: %d\n", num)
 
 	var result string
 
